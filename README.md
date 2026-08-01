@@ -202,6 +202,7 @@ Popular, highly-rated apps from the [Shopify App Store](https://apps.shopify.com
 - [Migrating to React Native's New Architecture](https://shopify.engineering/react-native-new-architecture) - Shopify Engineering, 2025. Deep dive into the migration and its animation and frame-rate challenges.
 - [Quick: An Internal Hosting Platform for the AI Era](https://shopify.engineering/quick) - Shopify Engineering, 2026. Introduces Quick, Shopify's internal hosting platform for AI-era workloads.
 - [Replacing Redis with MySQL for Inventory Reservations](https://shopify.engineering/scaling-inventory-reservations) - Shopify Engineering, 2026. Case study on re-architecting inventory reservations and how it scaled.
+- [Shopify App Review Triage Guide](https://alfredtech2026.github.io/shopify-app-review-brief/guides/shopify-app-review-triage.html) - Practical P0–P3 rubric, weekly workflow and copyable brief template for independent app teams.
 - [Shopify Customization: 5 Ways to Customize Themes](https://www.shopify.com/blog/customizing-store-theme) - Shopify, 2025. Merchant-facing guide to five ways of customizing a store theme.
 - [Teaching Sidekick to Say No](https://shopify.engineering/sidekick-curation) - Shopify Engineering, 2026. Automated data curation with LLM-judge consensus to improve the Sidekick AI assistant.
 
