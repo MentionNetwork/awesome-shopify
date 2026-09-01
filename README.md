@@ -39,6 +39,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 
 ## CLI & Developer Tools
 
+- [CSV SafeCheck](https://csv-safecheck.pages.dev/) - Browser-local Shopify product CSV preflight with exact row and column findings, conservative deterministic fixes, and no file uploads or account requirement.
 - [Shopify CLI](https://github.com/Shopify/cli) - Official command-line tool to build apps, themes and Hydrogen storefronts.
 - [Shopify Functions](https://shopify.dev/docs/apps/build/functions) - Serverless backend logic to customize business logic such as discounts and checkout.
 - [Shopify Polaris](https://polaris.shopify.com) - Shopify's design system and component guidance for building admin app UIs.
