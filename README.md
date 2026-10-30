@@ -158,6 +158,10 @@ Popular, highly-rated apps from the [Shopify App Store](https://apps.shopify.com
 - [ParcelPanel](https://apps.shopify.com/parcelpanel) - Order tracking with branded tracking pages to reduce WISMO inquiries.
 - [ShipStation](https://apps.shopify.com/shipstation) - Shipping and fulfillment platform with multi-carrier label automation.
 
+### Compliance & Legal
+
+- [Prop 65 Warning Manager](https://apps.shopify.com/momiji-prop-65-warning-manager) - Displays California Prop 65 warnings on product pages with merchant approval and an audit trail. Free plan available; paid from ¥4,577/month.
+
 ### Analytics & Reporting
 
 - [Better Reports](https://apps.shopify.com/betterreports) - Custom reporting and analytics to explore and export store data.
