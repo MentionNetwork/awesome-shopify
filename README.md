@@ -47,6 +47,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 
 ## App Development
 
+- [BestAppify](https://bestappify.com) - Marketing platform for Shopify app developers: rank tracking, listing optimizer with AI audit, competitor watch, review intelligence, and a public catalogue of ~26,700 live Shopify apps.
 - [Shopify App Bridge](https://shopify.dev/docs/api/app-bridge) - JavaScript SDK letting embedded apps communicate with and render inside the Shopify admin.
 - [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) - Official template for embedded apps with React Router v7+, the recommended starting point.
 - [Shopify App Template (Remix)](https://github.com/Shopify/shopify-app-template-remix) - Official Remix-based app template (now superseded by the React Router template).
@@ -69,6 +70,7 @@ Everything for building on and selling with [Shopify](https://www.shopify.com) â
 
 ## AI, MCP & Agents
 
+- [BestAppify MCP](https://bestappify.com/mcp) - 59-tool MCP server for Shopify App Store data. Read + write tools (track keywords, propose listing rewrites, render screenshots). Open-source [agent skills on GitHub](https://github.com/rezzarzk/bestappify-agent-skills).
 - [Build a Storefront AI Agent](https://shopify.dev/docs/apps/build/storefront-mcp/build-storefront-ai-agent) - Step-by-step guide to building a storefront AI shopping agent on Shopify's MCP tools.
 - [Shopify Dev MCP](https://shopify.dev/docs/apps/build/devmcp) - Shopify's developer MCP server and AI toolkit letting coding assistants query Shopify docs and APIs.
 - [Shopify Storefront MCP](https://shopify.dev/docs/apps/build/storefront-mcp) - Model Context Protocol interface exposing a store's catalog, cart and policies to AI shopping agents.
