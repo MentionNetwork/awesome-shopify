@@ -174,11 +174,10 @@ Popular, highly-rated apps from the [Shopify App Store](https://apps.shopify.com
 
 ## Learning Resources
 
-- [Liquid Storefronts for Theme Developers](https://www.shopifyacademy.com/path/liquid-storefronts-for-theme-developers) - Structured Shopify Academy learning path teaching theme development with Liquid.
-- [Shopify Academy](https://www.shopifyacademy.com) - Free courses and credential assessments across selling, marketing and store building.
 - [Shopify Learn](https://www.shopify.com/learn) - Free educational hub of guided courses and tutorials for merchants and developers.
 - [Shopify Partners Blog](https://www.shopify.com/partners/blog) - Blog for developers and agencies on app development, theme development and growing a practice.
 
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 ## Communities
 
 - [r/shopify](https://www.reddit.com/r/shopify/) - Large Reddit community for Shopify merchants, developers and partners.
